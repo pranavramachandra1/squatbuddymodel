@@ -1,4 +1,4 @@
-FROM python3.11.11-slim-buster
+FROM python:3.11.11-bookworm
 
 WORKDIR /squatbuddymodel
 
